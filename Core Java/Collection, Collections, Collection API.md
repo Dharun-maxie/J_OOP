@@ -70,7 +70,7 @@ while(l3.hasNext())
 3 7 9 13 18 40 57 69 82 88
 ```
 
-*And We also have `Map` which is not a part of `Collection`. Lets do implementation for that.*
+*And We also have `Map` which is not a part of `Collection`. Let's do implementation for that.*
 
 ```java
 // Syntax
@@ -133,7 +133,7 @@ Output:
 [Ahmed, Dharunpandi, Hello World!, Jerome]
 ```
 
-*Question What if we want to compare by it's length of the `String`. with `Comparator Interface`. we can modify our sorting differently.*
+*Question What if we want to compare by its length of the `String`. with `Comparator Interface`. we can modify our sorting differently.*
 
 ```java
 Comparator<String> comparator = new Comparator<>()
